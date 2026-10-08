@@ -91,6 +91,8 @@ Daily or weekly launch boards, the closest thing to Product Hunt.
 - [LaunchIgniter](https://launchigniter.com/) - Weekly product launches for makers.
 - [Tiny Startups](https://tinystartups.com/) - Newsletter and directory for small bootstrapped startups.
 
+- [StarTap](https://startap.cc/) - Gamified product directory where indie makers submit websites and compete on daily and all-time leaderboards.
+
 ## 💬 Communities
 
 Places where a good launch post beats a listing.
