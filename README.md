@@ -118,6 +118,7 @@ Evergreen listings that people browse when comparing tools.
 
 ## 🧠 AI tool directories
 
+- [AI Tools Radar](https://aitoolsradar.com/) - Multilingual AI product discovery directory with a submission route for makers and editorial coverage for readers.
 - [There's An AI For That](https://theresanaiforthat.com/) - One of the largest AI tool directories.
 - [Futurepedia](https://www.futurepedia.io/) - AI tools directory with categories and guides.
 - [Toolify](https://www.toolify.ai/) - AI tools directory with traffic rankings.
