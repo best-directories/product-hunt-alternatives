@@ -122,6 +122,7 @@ Evergreen listings that people browse when comparing tools.
 - [Futurepedia](https://www.futurepedia.io/) - AI tools directory with categories and guides.
 - [Toolify](https://www.toolify.ai/) - AI tools directory with traffic rankings.
 - [Dang.ai](https://dang.ai/) - Curated AI tools directory.
+- [Public Prompts](https://www.publicprompts.art/) - Categorized AI tools directory for people comparing software and founders submitting products for editorial review.
 
 ## 🤖 AI agent and MCP directories
 
