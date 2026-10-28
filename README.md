@@ -89,6 +89,7 @@ Daily or weekly launch boards, the closest thing to Product Hunt.
 - [OpenHunts](https://www.openhunts.com/) - Weekly launch board for indie makers.
 - [Startup Fame](https://www.startupfa.me/) - Launch and showcase platform for startups.
 - [LaunchIgniter](https://launchigniter.com/) - Weekly product launches for makers.
+- [Launchdog](https://launchdog.dev/) - Weekly launch board where makers launch from their AI coding agent over MCP and people vote.
 - [Tiny Startups](https://tinystartups.com/) - Newsletter and directory for small bootstrapped startups.
 
 ## 💬 Communities
