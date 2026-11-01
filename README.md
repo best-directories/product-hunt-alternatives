@@ -136,6 +136,7 @@ Evergreen listings that people browse when comparing tools.
 - [Launching Next](https://www.launchingnext.com/) - Daily list of new startups.
 - [StartupBase](https://startupbase.io/) - Share your startup and get discovered.
 - [Startup Stash](https://startupstash.com/) - Curated directory of startup tools and resources.
+- [SitePatent](https://sitepatent.com/) - Browsable directory of startups, tools and online products for builders.
 - [Side Projectors](https://www.sideprojectors.com/) - Showcase side projects, or sell them.
 - [BetaPage](https://betapage.co/) - Startups and beta products.
 - [NoCodeList](https://nocodelist.co/) - Tools and products built with no-code.
