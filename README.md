@@ -90,6 +90,7 @@ Daily or weekly launch boards, the closest thing to Product Hunt.
 - [Startup Fame](https://www.startupfa.me/) - Launch and showcase platform for startups.
 - [LaunchIgniter](https://launchigniter.com/) - Weekly product launches for makers.
 - [Tiny Startups](https://tinystartups.com/) - Newsletter and directory for small bootstrapped startups.
+- [Awesome Indie](https://awesomeindie.com/) - Daily launches for indie makers, ranked by community upvotes.
 
 ## 💬 Communities
 
